@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "just-validate": "^4.2.0"
+  }
+}
